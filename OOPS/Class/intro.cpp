@@ -34,7 +34,6 @@ void student :: insert(long long a, char b[], char c[], long long d){
 	strcpy(address, c);
 	phoneNO = d;
 	
-	
 }
 
 int main() {
