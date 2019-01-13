@@ -1,4 +1,4 @@
-//Multiple	Inheritance - One class is inheriting from two base classes
+//Multiple Inheritance - One class is inheriting from two base classes
 #include <iostream>
 using namespace std;
 
