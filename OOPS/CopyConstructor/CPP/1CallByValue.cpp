@@ -34,9 +34,11 @@ void update(A a){
 }
 
 int main() {
-	A obj(69);
+	A obj(69); //Normal constructor is being called
 	obj.display(); //x is : 69
-	update(obj);   //value of x inside friend : 89   
+	update(obj);   
+	//Copy constructor is getting called
+	//value of x inside friend : 89
 	obj.display(); //x is : 69
 	return 0;
 }
