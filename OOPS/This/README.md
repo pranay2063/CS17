@@ -1,5 +1,5 @@
 
-_**This** in c++_
+_**This** in C++_
 > https://www.geeksforgeeks.org/this-pointer-in-c/
 
 _**Initializer List** in C++_
