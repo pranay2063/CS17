@@ -5,3 +5,6 @@ Virtual function in C++
 
 Pure virtual function (Abstract function) C++
 > https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/
+
+Virtual functions are so useful that later languages like Java keep all methods as virtual by default
+> https://www.geeksforgeeks.org/g-fact-43/
