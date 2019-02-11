@@ -14,7 +14,7 @@ class derived : public base{
 int main() {
 	base objb;
 	derived objd;
-	objb.show();
-	objd.show();
+	objb.show(); //Welcome to Base!
+	objd.show(); //Welcome to Derived!
 	return 0;
 }
