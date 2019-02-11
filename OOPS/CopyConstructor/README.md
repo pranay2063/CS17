@@ -8,3 +8,5 @@
 
 ~~Bro, what about default ones?~~ 
 >*https://www.geeksforgeeks.org/does-compiler-always-create-a-copy-constructor/*
+
+__Deep Copy & Shallow Copy__
