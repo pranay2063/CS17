@@ -1,5 +1,5 @@
 
 
 Polymorphism
-> Function Overloading 
+> Function Overloading and
 > Function Overriding 
