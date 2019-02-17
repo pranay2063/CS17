@@ -3,3 +3,6 @@
 
 **JAVA OOPS**
 > https://beginnersbook.com/2013/04/oops-concepts/
+
+**Arrays**
+> https://www.geeksforgeeks.org/arrays-in-java/
