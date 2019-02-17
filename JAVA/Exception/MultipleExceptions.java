@@ -23,6 +23,9 @@ class MultipleExceptions
 		catch(ArrayIndexOutOfBoundsException e){
 			System.out.println("Exception : Accessing array index out of bound is not allowed");
 		}
+		catch(ArithmeticException e){
+			System.out.println("Exception : Division by zero not allowed");
+		}
 		catch(Exception e){
 			//generic catch block
 			System.out.println("An exception occured!!!");
@@ -34,5 +37,5 @@ class MultipleExceptions
 Input : 1 2 3 4 5
 Output : 1000 500 333 250 200 Exception : Accessing array index out of bound is not allowed
 Input : 1 2 0 4 5
-Output : 1000 500 An exception occured!!!
+Output : 1000 500 Exception : Division by zero not allowed
 */
