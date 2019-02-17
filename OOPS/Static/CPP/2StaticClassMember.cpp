@@ -2,8 +2,7 @@
 using namespace std;
 
 class TDK{
-
-    
+	
 	public:
 	static int joker;
 	TDK(){
