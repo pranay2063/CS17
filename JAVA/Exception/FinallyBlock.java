@@ -16,6 +16,7 @@ class FinallyBlock
 			System.out.println("We have reached finally block");
 			System.out.println("Finally block is getting executed even if return statemnent is present");
 		}
+		//Finally block overrides the value returned by try and catch blocks
 	}
 	
 	public static void main (String[] args) throws java.lang.Exception
