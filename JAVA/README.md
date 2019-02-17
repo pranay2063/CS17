@@ -6,3 +6,6 @@
 
 **Arrays**
 > https://www.geeksforgeeks.org/arrays-in-java/
+
+**String comparison in Java**
+> https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
