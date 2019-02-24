@@ -27,4 +27,4 @@ class DynamicPolymorphism
 		Animal obj = new Dog(); //Instance of class 'Animal' referring to instance of 'Dog'
 		obj.sound(); //Method is decided at runtime (dynamic)
 	}
-}
+} 
