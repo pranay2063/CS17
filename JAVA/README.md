@@ -4,6 +4,9 @@
 **JAVA OOPS**
 > https://beginnersbook.com/2013/04/oops-concepts/
 
+**Packages in JAVA**
+> https://www.geeksforgeeks.org/packages-in-java/
+
 **Arrays**
 > https://www.geeksforgeeks.org/arrays-in-java/
 
