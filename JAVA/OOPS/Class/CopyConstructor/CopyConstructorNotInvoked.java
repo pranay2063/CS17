@@ -27,7 +27,7 @@ class CopyConstructorNotInvoked
 		System.out.println(data); //this.data
 	}
 	
-	public static void main (String[] args) 
+	public static void main (String[] args)  
 	{
 		
 		CopyConstructorNotInvoked obj1 = new CopyConstructorNotInvoked("How is the Josh?"); //Parameterized constructor is called
