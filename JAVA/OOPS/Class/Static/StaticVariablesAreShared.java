@@ -7,20 +7,21 @@ import java.io.*;
 class StaticVariablesAreShared
 {
 	
-	static int num;
-	String str;
-	
-	StaticVariablesAreShared(int a, String b){
-		num = a;
-		str = b;
-	}
+	private static int num;
+	private String str;
 	
 	public static void main (String[] args) 
 	{
-		StaticVariablesAreShared obj1 = new StaticVariablesAreShared(123, "Begin");
-		StaticVariablesAreShared obj2 = new StaticVariablesAreShared(321, "End");
+		StaticVariablesAreShared obj1 = new StaticVariablesAreShared();
+		StaticVariablesAreShared obj2 = new StaticVariablesAreShared();
 		
-		System.out.println("obj1.num : "+obj1.num+", obj1.str : "+obj1.str); // obj1.num : 321, obj1.str : Begin
-		System.out.println("obj2.num : "+obj2.num+", obj2.str : "+obj2.str); // obj2.num : 321, obj2.str : End
+		obj1.num = 23;
+		obj1.str = "Germany";
+		
+		obj2.num = 53;
+		obj2.str = "Netherlands";
+		
+		System.out.println("obj1.num : "+obj1.num+", obj1.str : "+obj1.str); // obj1.num : 53, obj1.str : Germany
+		System.out.println("obj2.num : "+obj2.num+", obj2.str : "+obj2.str); // obj2.num : 53, obj2.str : Netherlands
 	}
 }
