@@ -23,5 +23,7 @@ class StaticVariablesAreShared
 		
 		System.out.println("obj1.num : "+obj1.num+", obj1.str : "+obj1.str); // obj1.num : 53, obj1.str : Germany
 		System.out.println("obj2.num : "+obj2.num+", obj2.str : "+obj2.str); // obj2.num : 53, obj2.str : Netherlands
+		
+		num = 0;
 	}
 }
