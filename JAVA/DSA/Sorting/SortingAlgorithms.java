@@ -70,6 +70,26 @@ class SortingAlgorithms
 		
 	}
 	
+	public static void JavaUtilArraysSort(int[] a){
+		Arrays.sort(a);
+	}
+	
+	public static void JavaUtilCollectionsSort(){
+		//Collections.sort() expects list as input and does not work for arrays of primitive types
+		ArrayList<Integer> arr = new ArrayList<Integer>();
+		Random rand = new Random();
+		for(int i = 0; i < 5; ++i){
+			arr.add(rand.nextInt(200000)-100000);	
+			System.out.print(arr.get(i)+" ");
+		}
+		System.out.println();
+		Collections.sort(arr);
+		for(int i : arr){
+			System.out.print(i+" ");
+		}
+		System.out.println();
+	}
+	
 	public static void main (String[] args)
 	{
 		int[] a = new int[5];
@@ -88,5 +108,12 @@ class SortingAlgorithms
 		disp(a);
 		insertionSort(a);
 		disp(a);
+		System.out.println("Java Util Arrays Sort");
+		randomGenerator(a);
+		disp(a);
+		JavaUtilArraysSort(a);
+		disp(a);
+		System.out.println("Java Util Collections Sort");
+		JavaUtilCollectionsSort();
 	}
 }
