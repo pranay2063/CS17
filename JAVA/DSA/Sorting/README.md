@@ -1,8 +1,8 @@
 **Stability of a sorting algorithm**
-> https://www.geeksforgeeks.org/stability-in-sorting-algorithms/
+> *https://www.geeksforgeeks.org/stability-in-sorting-algorithms/*
 
 **Why is selection-sort faster than bubble-sort?**
-> https://cs.stackexchange.com/questions/13106/why-is-selection-sort-faster-than-bubble-sort
+> *https://cs.stackexchange.com/questions/13106/why-is-selection-sort-faster-than-bubble-sort*
 
 **Quick Sort**
 1. Worst case of quick sort - O(N^2) when array is sorted or all elements are equal
