@@ -9,7 +9,4 @@
 ~~Bro, what about default ones?~~ 
 >*https://www.geeksforgeeks.org/does-compiler-always-create-a-copy-constructor/*
 
-~~Constructor for a struct~~
-> *https://stackoverflow.com/questions/1127396/struct-constructor-in-c*
-
 Deep Copy & Shallow Copy
