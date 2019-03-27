@@ -11,6 +11,7 @@
 4. Randomized quick sort - Best case is *O(n)*
 5. Is quick sort stable? No - *https://stackoverflow.com/questions/1278243/stability-of-quicksort-partitioning-approach*
 6. Why is quick sort faster than merge sort in general? - *https://www.geeksforgeeks.org/tail-recursion/*
+7. Why is Quick Sort preferred for Arrays and Merge Sort for Linked Lists? - *https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/*
 
 **Heapsort**
 1. Is it stable? No
