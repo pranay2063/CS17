@@ -12,3 +12,7 @@
 
 **String comparison in Java**
 > https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
+
+**Specific functions**
+1. Split - *https://www.geeksforgeeks.org/split-string-java-examples/*
+2. Length VS Length() - https://www.geeksforgeeks.org/split-string-java-examples/
