@@ -14,6 +14,6 @@
 > *https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java*
 
 **Specific functions**
-1. Split - *https://www.geeksforgeeks.org/split-string-java-examples/*
+1. Split Regex - *https://www.geeksforgeeks.org/split-string-java-examples/*
 2. Length VS Length() - *https://www.geeksforgeeks.org/split-string-java-examples/*
 3. BigInteger Class - *https://www.geeksforgeeks.org/biginteger-class-in-java/*
