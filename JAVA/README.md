@@ -1,17 +1,17 @@
 **JAVA for Beginners**
-> https://beginnersbook.com/2013/05/java-introduction/
+> *https://beginnersbook.com/2013/05/java-introduction/*
 
 **JAVA OOPS**
-> https://beginnersbook.com/2013/04/oops-concepts/
+> *https://beginnersbook.com/2013/04/oops-concepts/*
 
 **Packages in JAVA**
-> https://www.geeksforgeeks.org/packages-in-java/
+> *https://www.geeksforgeeks.org/packages-in-java/*
 
 **Arrays**
-> https://www.geeksforgeeks.org/arrays-in-java/
+> *https://www.geeksforgeeks.org/arrays-in-java/*
 
 **String comparison in Java**
-> https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
+> *https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java*
 
 **Specific functions**
 1. Split - *https://www.geeksforgeeks.org/split-string-java-examples/*
