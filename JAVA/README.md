@@ -19,5 +19,9 @@
 3. BigInteger Class - *https://www.geeksforgeeks.org/biginteger-class-in-java/*
 4. Storage of objects in Java - *https://www.geeksforgeeks.org/g-fact-46/*
 
+**Containers in Java**
+1. List Interface - *https://www.geeksforgeeks.org/list-interface-java-examples/*
+2. Map Interface - *https://www.geeksforgeeks.org/map-interface-java-examples/*
+
 **Wrapper class - Autoboxing and Unboxing**
 > *https://www.geeksforgeeks.org/wrapper-classes-java/*
