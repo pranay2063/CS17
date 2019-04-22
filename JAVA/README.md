@@ -13,11 +13,12 @@
 **String comparison in Java**
 > *https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java*
 
-**Specific functions**
+**Specific topics and functions**
 1. Split Regex - *https://www.geeksforgeeks.org/split-string-java-examples/*
 2. Length VS Length() - *https://www.geeksforgeeks.org/split-string-java-examples/*
 3. BigInteger Class - *https://www.geeksforgeeks.org/biginteger-class-in-java/*
 4. Storage of objects in Java - *https://www.geeksforgeeks.org/g-fact-46/*
+5. String scanning issue - *https://stackoverflow.com/questions/5966599/java-scanner-string-input*
 
 **Containers in Java**
 1. List Interface - *https://www.geeksforgeeks.org/list-interface-java-examples/*
