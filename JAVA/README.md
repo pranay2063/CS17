@@ -23,9 +23,8 @@
 7. Implementing comparator interface for sorting - *https://www.geeksforgeeks.org/comparator-interface-java/*
       
       Problems
-      
-      *https://www.hackerrank.com/challenges/java-comparator/problem*
-      *https://www.hackerrank.com/challenges/java-sort/problem*
+      7.1 *https://www.hackerrank.com/challenges/java-comparator/problem*
+      7.2 *https://www.hackerrank.com/challenges/java-sort/problem*
 
 **Containers in Java**
 1. List Interface - *https://www.geeksforgeeks.org/list-interface-java-examples/*
