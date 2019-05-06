@@ -27,6 +27,10 @@
       7.1 *https://www.hackerrank.com/challenges/java-comparator/problem*
       
       7.2 *https://www.hackerrank.com/challenges/java-sort/problem*
+ 8. Vector Vs ArrayList (Why ArrayList is preferred over Vector?) - *https://www.google.com/search?q=arraylist+vs+vector+in+java&rlz=1C1GCEU_enIN821IN821&oq=arraylist+vs+vector+&aqs=chrome.1.69i57j0l5.7145j0j7&sourceid=chrome&ie=UTF-8* 
+
+**Synchronised in Java**
+> https://www.geeksforgeeks.org/synchronized-in-java/
 
 **Containers in Java**
 1. List Interface - *https://www.geeksforgeeks.org/list-interface-java-examples/*
