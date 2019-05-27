@@ -7,5 +7,5 @@
 2. *https://softwareengineering.stackexchange.com/questions/49379/when-should-i-use-and-not-use-design-patterns*
 
 **Factory Method Design Pattern** - *https://www.coursera.org/learn/design-patterns/lecture/LIUcy/2-1-4-factory-method-pattern*
-![alt text](https://raw.githubusercontent.com/pranay2063/CS17/master/DesignPatterns/Images/FactoryMethod.PNG)
 ![alt text](https://raw.githubusercontent.com/pranay2063/CS17/master/DesignPatterns/Images/FactoryMethodDesignIntent.PNG)
+![alt text](https://raw.githubusercontent.com/pranay2063/CS17/master/DesignPatterns/Images/FactoryMethod.PNG)
