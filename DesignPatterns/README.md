@@ -5,3 +5,6 @@
 **How to know which design pattern to use**
 1. *https://stackoverflow.com/questions/85272/how-do-you-know-when-to-use-design-patterns*
 2. *https://softwareengineering.stackexchange.com/questions/49379/when-should-i-use-and-not-use-design-patterns*
+
+**Factory Method Design Pattern**
+![alt text](https://raw.githubusercontent.com/pranay2063/CS17/Master/DesignPatterns/Images/FactoryMethod.PNG/to/img.png)
