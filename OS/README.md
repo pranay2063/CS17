@@ -1,5 +1,6 @@
 # Operating System
 
+
 **OS Basics**  - *https://www.geeksforgeeks.org/operating-systems/#basics*
 
 1. **What happens when we turn on computer?**
