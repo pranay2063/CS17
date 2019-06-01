@@ -38,3 +38,8 @@
                           FCFS - Convoy effect - https://www.geeksforgeeks.org/convoy-effect-operating-systems/
                        
                        Preemptive algorithms - Round Robin
+                       
+   Starvation and Deadlock -
+   
+                       Starvation - Indefinite wait
+                       Deadlock - Infinite wait
