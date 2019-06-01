@@ -20,7 +20,7 @@
    
    Dispatcher - 
         
-                       handles transition from ready to running state
+                       handles transition from ready to running state (Context Switching)
    
    Time variants related to a process - 
    
