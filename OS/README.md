@@ -39,7 +39,7 @@
                        
                        Preemptive algorithms - Round Robin
                        
-   Starvation and Deadlock -
+   Starvation -
    
                        Starvation - Indefinite wait
                        Deadlock - Infinite wait
