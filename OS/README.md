@@ -21,6 +21,7 @@
    Dispatcher - 
         
                        handles transition from ready to running state (Context Switching)
+                       https://www.geeksforgeeks.org/operating-system-difference-dispatcher-scheduler/
    
    Time variants related to a process - 
    
