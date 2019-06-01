@@ -30,6 +30,7 @@
                        Burst Time - Time duration of process execution at CPU (Process can be executed in multiple bursts)
                        Turn Around Time (TAT) - Completion Time - Arrival Time
                        Waiting Time - TAT - Burst Time
+                       Service Time - Time at which process execution starts or is responded for the first time
                        
    CPU scheduling algorithms - Non-preemptive and Preemptive algorithms 
    
