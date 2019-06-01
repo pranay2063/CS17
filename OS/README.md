@@ -43,3 +43,4 @@
    
                        Starvation - Indefinite wait
                        Deadlock - Infinite wait
+                       Aging - solution to starvation (https://www.geeksforgeeks.org/starvation-aging-operating-systems/)
