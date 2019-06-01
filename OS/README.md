@@ -14,9 +14,13 @@
 
    Process scheduler - 
    
-                       Long term scheduler (New -> Ready transition, Job scheduler, controls degree of multi-programming), Short term                            scheduler (Ready -> Running selection, only selection, not transition, dispatcher handles transition), Medium                              term scheduler (suspending and resuming process, switching from main memory to secondary memory and vice-versa) 
+                       Long term scheduler - New -> Ready transition, Job scheduler, controls degree of multi-programming
+                       Short term scheduler - Ready -> Running selection, only selection, not transition, dispatcher handles transition
+                       Medium term scheduler - suspending and resuming process, switching from main memory to secondary memory and                              vice-versa
    
-   Dispatcher - handles transition from ready to running state
+   Dispatcher - 
+        
+                       handles transition from ready to running state
    
    Time variants related to a process - 
    
@@ -28,6 +32,7 @@
                        
    CPU scheduling algorithms - Non-preemptive and Preemptive algorithms 
    
-                       Non-preemptive algorithms - FCFS (Convoy effect - *https://www.geeksforgeeks.org/convoy-effect-operating-systems/*)
-                       ,
+                       Non-preemptive algorithms - 
+                          FCFS (Convoy effect - *https://www.geeksforgeeks.org/convoy-effect-operating-systems/*)
+                       
                        Preemptive algorithms - Round Robin
