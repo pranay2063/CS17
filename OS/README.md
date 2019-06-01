@@ -33,6 +33,6 @@
    CPU scheduling algorithms - Non-preemptive and Preemptive algorithms 
    
                        Non-preemptive algorithms - 
-                          FCFS - Convoy effect - *https://www.geeksforgeeks.org/convoy-effect-operating-systems/*
+                          FCFS - Convoy effect - https://www.geeksforgeeks.org/convoy-effect-operating-systems/
                        
                        Preemptive algorithms - Round Robin
