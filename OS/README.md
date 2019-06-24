@@ -37,8 +37,11 @@
    
                        Non-preemptive algorithms - 
                           FCFS - Convoy effect - https://www.geeksforgeeks.org/convoy-effect-operating-systems/
+                          Shortest Job First (SJF)
                        
-                       Preemptive algorithms - Round Robin
+                       Preemptive algorithms - 
+                          Round Robin
+                          SRTF (Shortest Remaining Time First) (Pre-emptive version of SJF)
                        
    Starvation -
    
