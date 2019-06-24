@@ -8,4 +8,5 @@
   
 **Normalization**
 
-  1. *https://www.studytonight.com/dbms/database-normalization.php*
+  1. *https://www.studytonight.com/dbms/database-normalization.php* 
+  2. *https://db.grussell.org/section008.html*
