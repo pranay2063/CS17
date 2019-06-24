@@ -1,6 +1,13 @@
 **JAVA for Beginners**
 > *https://beginnersbook.com/2013/05/java-introduction/*
 
+**JAVA Basics**
+
+      1. Why is main static in Java? - 
+            https://stackoverflow.com/questions/146576/why-is-the-java-main-method-static
+            https://www.geeksforgeeks.org/understanding-static-in-public-static-void-main-in-java/
+      2. Final, Finally and Finalize in Java - https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/
+      
 **JAVA OOPS**
 > *https://beginnersbook.com/2013/04/oops-concepts/*
 
