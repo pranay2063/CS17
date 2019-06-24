@@ -9,6 +9,8 @@
             
       2. Final, Finally and Finalize in Java - https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/
       
+      3. Can overridden methods differ in return type? - https://stackoverflow.com/questions/14694852/can-overridden-methods-differ-in-return-type
+      
 **JAVA OOPS**
 > *https://beginnersbook.com/2013/04/oops-concepts/*
 
