@@ -44,6 +44,7 @@
                           Round Robin
                           SRTF (Shortest Remaining Time First) (Pre-emptive version of SJF)
                           Pre-emptive priority scheduling
+                          Multi-level queue scheduling
                        
    Starvation -
    
