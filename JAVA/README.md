@@ -4,6 +4,7 @@
 **JAVA Basics**
 
       1. Why is main static in Java? - 
+      
             https://stackoverflow.com/questions/146576/why-is-the-java-main-method-static
             https://www.geeksforgeeks.org/understanding-static-in-public-static-void-main-in-java/
             
