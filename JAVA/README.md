@@ -12,6 +12,8 @@
       
       3. Can overridden methods differ in return type? - https://stackoverflow.com/questions/14694852/can-overridden-methods-differ-in-return-type
       
+      4. Interfaces in Java (complete explanation) - https://beginnersbook.com/2013/05/java-interface/
+      
 **JAVA OOPS**
 > *https://beginnersbook.com/2013/04/oops-concepts/*
 
