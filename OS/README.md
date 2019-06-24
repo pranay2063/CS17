@@ -45,6 +45,7 @@
                           SRTF (Shortest Remaining Time First) (Pre-emptive version of SJF)
                           Pre-emptive priority scheduling
                           Multi-level queue scheduling
+                          Multi-level feedback queue scheduling (extension of above algorithm)
                        
    Starvation -
    
