@@ -49,6 +49,6 @@
                        
    Starvation -
    
-                       Starvation - Indefinite wait
-                       Deadlock - Infinite wait
+                       Starvation - Indefinite wait (Lived Lock)
+                       Deadlock - Infinite wait (Circular Waiting)
                        Aging - solution to starvation (https://www.geeksforgeeks.org/starvation-aging-operating-systems/)
