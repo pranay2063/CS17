@@ -8,6 +8,10 @@
 3. *https://dzone.com/articles/spring-framework-tutorial-for-beginners-2*
 4. *https://dzone.com/articles/5-courses-to-learn-spring-cloud-in-2019?fromrel=true*
 
+**Spring - Concepts**
+1. Coupling - *https://www.geeksforgeeks.org/coupling-in-java/*
+2. Inversion Control (IoC) - *https://www.tutorialsteacher.com/ioc/inversion-of-control*
+
 **Java-EE Vs Spring**
 1. *https://stackoverflow.com/questions/4490682/difference-between-java-ee-and-spring-framework*
 2. *https://www.quora.com/What-are-the-differences-between-Java-EE-and-Spring*
