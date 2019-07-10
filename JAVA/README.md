@@ -7,6 +7,7 @@
       
             https://stackoverflow.com/questions/146576/why-is-the-java-main-method-static
             https://www.geeksforgeeks.org/understanding-static-in-public-static-void-main-in-java/
+            https://stackoverflow.com/questions/7279887/what-is-the-use-of-a-private-static-variable-in-java
             
       2. Final, Finally and Finalize in Java - https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/
       
