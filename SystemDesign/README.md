@@ -6,7 +6,7 @@
 
 **Synchronous Vs Asynchronous** - *https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean*
 
-**OAuth**
+**OAuth** -
 
 *https://searchmicroservices.techtarget.com/definition/OAuth*
 *https://stackoverflow.com/questions/4201431/what-exactly-is-oauth-open-authorization*
