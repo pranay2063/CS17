@@ -21,3 +21,17 @@
   1. *https://computer.howstuffworks.com/internet/basics/question82.htm*
   2. *https://stackoverflow.com/questions/31021764/where-does-chrome-store-cookies*
   3. *https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer*
+  
+**Components of a system**
+
+  1. Load Balancer (LB) - Load Balancing
+  2. Cache - Caching
+  3. Database scaling 
+  4. Type of database - SQL vs NoSQL
+  5. Queues
+  6. Proxies
+  7. Indices
+  8. Redundancy and Replication
+  9. CAP Theorem - Consistency, Availability and Partition Tolerance
+  10. Consistent Hashing
+  11. Networking - Long-Polling, Web-Sockets and Server-sent events
