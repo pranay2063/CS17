@@ -24,14 +24,14 @@
   
 **Components of a system**
 
-  1. Load Balancer (LB) - Load Balancing
-  2. Cache - Caching
-  3. Database scaling 
-  4. Type of database - SQL vs NoSQL
-  5. Queues
-  6. Proxies
-  7. Indices
-  8. Redundancy and Replication
-  9. CAP Theorem - Consistency, Availability and Partition Tolerance
-  10. Consistent Hashing
-  11. Networking - Long-Polling, Web-Sockets and Server-sent events
+  1. **Load Balancer (LB) - Load Balancing**
+  2. **Cache - Caching**
+  3. **Database scaling**
+  4. **Type of database - SQL vs NoSQL**
+  5. **Queues**
+  6. **Proxies**
+  7. **Indices**
+  8. **Redundancy and Replication**
+  9. **CAP Theorem - Consistency, Availability and Partition Tolerance**
+  10. **Consistent Hashing**
+  11. **Networking - Long-Polling, Web-Sockets and Server-sent events**
