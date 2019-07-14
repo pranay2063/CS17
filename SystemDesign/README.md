@@ -29,6 +29,8 @@
   3. **Data partitioning or sharding**
       
       3.1 Horizontal Vs Vertical partitioning - *https://stackoverflow.com/questions/18302773/what-are-horizontal-and-vertical-partitions-in-database-and-what-is-the-differen*
+      3.2 *https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f*
+      3.3
       
   4. **Type of database - SQL vs NoSQL**
   5. **Queues**
