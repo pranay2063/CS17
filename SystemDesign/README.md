@@ -32,7 +32,9 @@
       
       3.2 *https://medium.com/@jeeyoungk/why-i-love-databases-1d4cc433685f*
       
-      3.3
+      3.3 *https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6*
+      
+      3.4 *https://www.youtube.com/watch?v=5faMjKuB9bc&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&index=7*
       
   4. **Type of database - SQL vs NoSQL**
   5. **Queues**
