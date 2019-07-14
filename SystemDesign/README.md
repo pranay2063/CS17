@@ -47,6 +47,13 @@
       10.1 *http://michaelnielsen.org/blog/consistent-hashing/*
   
   11. **Networking - Long-Polling, Web-Sockets and Server-sent events**
+  
+**Databases**
+
+  1. Optimizing SQL queries
+  2. Indexes (Faster read)
+  3. Horizontal partitioning (Sharding)
+  4. Master-slave architecture (in case of machine/database server failure)
 
 **REST**
 
