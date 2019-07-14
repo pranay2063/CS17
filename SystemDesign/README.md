@@ -37,6 +37,8 @@
   11. **Networking - Long-Polling, Web-Sockets and Server-sent events**
 
 **REST**
+  -1. *https://www.codecademy.com/articles/what-is-rest*
+  0. *https://www.codecademy.com/articles/what-is-crud*
   1. *https://vmokshagroup.com/blog/building-restful-apis-using-node-js-express-js-and-ms-sql-server/*
   2. *https://spring.io/guides/gs/rest-service/*
   3. *https://www.quora.com/How-do-I-build-a-REST-API*
