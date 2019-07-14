@@ -34,6 +34,9 @@
   8. **Redundancy and Replication**
   9. **CAP Theorem - Consistency, Availability and Partition Tolerance**
   10. **Consistent Hashing**
+  
+      10.1 *http://michaelnielsen.org/blog/consistent-hashing/*
+  
   11. **Networking - Long-Polling, Web-Sockets and Server-sent events**
 
 **REST**
