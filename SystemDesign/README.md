@@ -38,10 +38,10 @@
 
 **REST**
 
-  -1. *https://www.codecademy.com/articles/what-is-rest*
-  0. *https://www.codecademy.com/articles/what-is-crud*
-  1. *https://vmokshagroup.com/blog/building-restful-apis-using-node-js-express-js-and-ms-sql-server/*
-  2. *https://spring.io/guides/gs/rest-service/*
-  3. *https://www.quora.com/How-do-I-build-a-REST-API*
-  4. *https://stackoverflow.com/questions/5320003/why-we-should-use-rest*
-  5. *https://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html*
+  1. *https://www.codecademy.com/articles/what-is-rest*
+  2. *https://www.codecademy.com/articles/what-is-crud*
+  3. *https://vmokshagroup.com/blog/building-restful-apis-using-node-js-express-js-and-ms-sql-server/*
+  4. *https://spring.io/guides/gs/rest-service/*
+  5. *https://www.quora.com/How-do-I-build-a-REST-API*
+  6. *https://stackoverflow.com/questions/5320003/why-we-should-use-rest*
+  7. *https://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html*
