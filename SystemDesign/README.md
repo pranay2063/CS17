@@ -26,7 +26,12 @@
 
   1. **Load Balancer (LB) - Load Balancing**
   2. **Cache - Caching**
-  3. **Database scaling**
+  3. **Data partitioning or sharding**
+      
+      3.1 Horizontal Vs Vertical partitioning - 
+      
+      *https://stackoverflow.com/questions/18302773/what-are-horizontal-and-vertical-partitions-in-database-and-what-is-the-differen*
+      
   4. **Type of database - SQL vs NoSQL**
   5. **Queues**
   6. **Proxies**
