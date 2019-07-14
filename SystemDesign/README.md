@@ -52,7 +52,7 @@
 
   1. Optimizing SQL queries
   2. Indexes (Faster read)
-  3. Horizontal partitioning (Sharding)
+  3. Horizontal partitioning (Sharding) - using consistent hashing
   4. Master-slave architecture (in case of machine/database server failure)
 
 **REST**
