@@ -52,3 +52,21 @@
                        Starvation - Indefinite wait (Lived Lock)
                        Deadlock - Infinite wait (Circular Waiting)
                        Aging - solution to starvation (https://www.geeksforgeeks.org/starvation-aging-operating-systems/)
+                       
+   Deadlock -
+   
+                      Conditions for deadlock -
+                          1. Mutual exclusion
+                          2. Hold and wait
+                          3. No preemption
+                          4. Circular wait
+                          
+                      Solution to deadloack - 
+                          1. Deadloack avoidance
+                          2. Dead detection and recovery
+                          3. Ignore the problem at all (if not frequent) - Let it happen and reboot
+                          
+                      Deadlock avoidance -
+                          Banker's algorithm 
+                            - Safety algorithm - to decide if system is in safe state
+                            - Resource-request algorithm
