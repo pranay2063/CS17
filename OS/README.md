@@ -55,18 +55,38 @@
                        
    Deadlock -
    
-                      Conditions for deadlock -
+                       Conditions for deadlock -
                           1. Mutual exclusion
                           2. Hold and wait
                           3. No preemption
                           4. Circular wait
                           
-                      Solution to deadloack - 
+                       Solution to deadloack - 
                           1. Deadloack avoidance
                           2. Dead detection and recovery
                           3. Ignore the problem at all (if not frequent) - Let it happen and reboot
                           
-                      Deadlock avoidance -
+                       Deadlock avoidance -
                           Banker's algorithm 
                             - Safety algorithm - to decide if system is in safe state
                             - Resource-request algorithm
+                            
+   Critical Section Problem - 
+                        
+                       Cooperative processes - processes whose execution affects execution of other processes (opposite of independent processes)
+                       
+                       Race condition - If several processes are accessing a resource or segment concurrently, then outcome of the execution depends order of access
+                       
+                       Critical section - A segment which can be accessed by one process at a time
+                       
+                       Solution to critical section must satisfy following conditions:
+                          1. Mutual exclusion 
+                          2. Progress - 
+                          3. Bounded wait -
+                          
+                       Peterson solution - software based solution
+                       Test and Set (Lock and Unlock)
+                       Mutex (Locking mechanism)
+                       Semaphore (Signalling mechanism)
+                       
+ Producer - Consumer Problem - 
