@@ -27,11 +27,11 @@
   1. **Load Balancer (LB) - Load Balancing**
   2. **Cache - Caching** - 
   
-    Where to cache? - in memory or between server and database
-    Global cache
-    Cache replacement policy
-    Thrashing
-    Cache write policy - write through and write back
+      Where to cache? - in memory or between server and database
+      Global cache
+      Cache replacement policy
+      Thrashing
+      Cache write policy - write through and write back
     
   3. **Data partitioning or sharding**
       
