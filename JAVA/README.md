@@ -57,3 +57,15 @@
 
 **Hashmap in Java**
 
+      Hashmap does not support mutiple values with same key. 
+      HashMap internally stores mapping in the form of Map.Entry object which contains both key and value object.
+      This means if same key is encountered again, previous entry is replaced by current one (over ridden).
+      Internally, hashmap is represented as an array of bucket where each bucket represents a linked list.
+      Collision is possible for multiple keys and all keys with same hashcode is maintained in linked list of that bucket. [Link 1]
+      
+      1. https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html
+      2. https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
+      
+**JAVA interview prep**
+
+      1. https://www.java67.com/2015/11/how-to-set-javahome-path-in-mac-os-x.html#at_pco=smlwn-1.0&at_si=5d2e197bebdf1c66&at_ab=per-2&at_pos=0&at_tot=1
