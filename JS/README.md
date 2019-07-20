@@ -1,7 +1,7 @@
 
 **JS**
 
-  1. *JS is an evert driven language. This means that instead of waiting for a response before moving on, JavaScript will keep executing while listening for other events.** 
+  *1. JS is an evert driven language. This means that instead of waiting for a response before moving on, JavaScript will keep executing while listening for other events.** 
 
 **Objects in JS** - *https://www.geeksforgeeks.org/objects-in-javascript/*
 
