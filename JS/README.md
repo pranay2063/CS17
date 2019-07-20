@@ -8,6 +8,7 @@
 **Callback functions in JS** - 
 
  *1. https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced*
+ 
  *2. https://www.geeksforgeeks.org/javascript-callbacks/*
  
 **Closure in JS** - *https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36*
