@@ -6,6 +6,10 @@
 
 **Objects in JS** - *https://www.geeksforgeeks.org/objects-in-javascript/*
 
+**First class functions in JS**
+    
+  1. *https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function*
+
 **Callback functions in JS** - 
   
   1. *https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced*
