@@ -1,3 +1,6 @@
+**Resources**
+  
+  1. *https://medium.com/javarevisited/growing-pains-becoming-an-intermediate-developer-6108a00211d5*
 
 **How to understand scalability of an application** - 
 
