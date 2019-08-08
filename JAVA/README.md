@@ -24,9 +24,12 @@
             https://www.journaldev.com/797/what-is-java-string-pool
             https://stackoverflow.com/questions/3801343/what-is-string-pool-in-java
             https://stackoverflow.com/questions/2486191/what-is-the-java-string-pool-and-how-is-s-different-from-new-strings
+            
       Equals VS == - 
             https://stackoverflow.com/questions/7520432/what-is-the-difference-between-and-equals-in-java
             https://www.journaldev.com/1321/java-string-interview-questions-and-answers#java-string-equals
+            
+      Why are strings immutable in Java? - https://www.programcreek.com/2013/04/why-string-is-immutable-in-java/      
 
 **Packages in JAVA**
 > *https://www.geeksforgeeks.org/packages-in-java/*
