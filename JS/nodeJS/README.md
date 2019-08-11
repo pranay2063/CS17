@@ -14,4 +14,9 @@
       https://stackoverflow.com/questions/38306569/what-does-body-parser-do-with-express
       https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express/use-body-parser-to-parse-post-requests/
       https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90
+      
+    Express Router
+        https://expressjs.com/en/guide/routing.html
+        https://www.tutorialspoint.com/expressjs/expressjs_routing
+        https://alligator.io/nodejs/express-routing/
         
