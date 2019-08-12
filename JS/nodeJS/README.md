@@ -20,3 +20,8 @@
         https://www.tutorialspoint.com/expressjs/expressjs_routing
         https://alligator.io/nodejs/express-routing/
         
+    app.use
+        https://stackoverflow.com/questions/11321635/nodejs-express-what-is-app-use
+        
+    app.use vs app.all
+        https://stackoverflow.com/questions/14125997/difference-between-app-all-and-app-use
