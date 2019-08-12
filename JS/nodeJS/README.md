@@ -25,3 +25,6 @@
         
     app.use vs app.all
         https://stackoverflow.com/questions/14125997/difference-between-app-all-and-app-use
+
+    __dirname
+        https://alligator.io/nodejs/how-to-use__dirname/
