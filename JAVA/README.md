@@ -15,6 +15,12 @@
       
       4. Interfaces in Java (complete explanation) - https://beginnersbook.com/2013/05/java-interface/      
       
+**Packages in JAVA**
+> *https://www.geeksforgeeks.org/packages-in-java/*
+
+**Arrays**
+> *https://www.geeksforgeeks.org/arrays-in-java/*
+      
 **JAVA OOPS**
 > *https://beginnersbook.com/2013/04/oops-concepts/*
 
@@ -30,15 +36,10 @@
             https://www.journaldev.com/1321/java-string-interview-questions-and-answers#java-string-equals
             
       Why are strings immutable in Java? - https://www.programcreek.com/2013/04/why-string-is-immutable-in-java/      
+      
+      String comparison in Java
+            https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
 
-**Packages in JAVA**
-> *https://www.geeksforgeeks.org/packages-in-java/*
-
-**Arrays**
-> *https://www.geeksforgeeks.org/arrays-in-java/*
-
-**String comparison in Java**
-> *https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java*
 
 **Specific topics and functions**
 
@@ -61,9 +62,15 @@
 **Synchronised in Java**
 > https://www.geeksforgeeks.org/synchronized-in-java/
 
-**Containers in Java**
-1. List Interface - *https://www.geeksforgeeks.org/list-interface-java-examples/*
-2. Map Interface - *https://www.geeksforgeeks.org/map-interface-java-examples/*
+**Collections framework in JAVA**
+      
+      Collection framework provides interfaces and classes for different containers in Java
+      1. https://www.journaldev.com/1260/collections-in-java-tutorial
+      2. List Interface - https://www.geeksforgeeks.org/list-interface-java-examples
+      3. Map Interface - https://www.geeksforgeeks.org/map-interface-java-examples/
+      
+      Generics in Java (Why are they needed?)
+      1. https://www.journaldev.com/1663/java-generics-example-method-class-interface
 
 **Wrapper class - Autoboxing and Unboxing**
 > *https://www.geeksforgeeks.org/wrapper-classes-java/*
