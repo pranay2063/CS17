@@ -3,27 +3,27 @@
 
 **JAVA Basics**
 
-      1. Why is main static in Java? - 
+      Why is main static in Java? - 
       
             https://stackoverflow.com/questions/146576/why-is-the-java-main-method-static
             https://www.geeksforgeeks.org/understanding-static-in-public-static-void-main-in-java/
             https://stackoverflow.com/questions/7279887/what-is-the-use-of-a-private-static-variable-in-java
             
-      2. Final, Finally and Finalize in Java - https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/
+      Final, Finally and Finalize in Java - https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/
       
-      3. Can overridden methods differ in return type? - https://stackoverflow.com/questions/14694852/can-overridden-methods-differ-in-return-type
+      Can overridden methods differ in return type? - https://stackoverflow.com/questions/14694852/can-overridden-methods-differ-in-return-type
       
-      4. Interfaces in Java (complete explanation) - https://beginnersbook.com/2013/05/java-interface/      
+      Interfaces in Java (complete explanation) - https://beginnersbook.com/2013/05/java-interface/      
       
-**Packages in JAVA**
-> *https://www.geeksforgeeks.org/packages-in-java/*
+      Packages in JAVA - https://www.geeksforgeeks.org/packages-in-java/
 
-**Arrays**
-> *https://www.geeksforgeeks.org/arrays-in-java/*
+      Arrays - https://www.geeksforgeeks.org/arrays-in-java/
       
-**JAVA OOPS**
-> *https://beginnersbook.com/2013/04/oops-concepts/*
-
+      JAVA OOPS - https://beginnersbook.com/2013/04/oops-concepts/
+      
+      Sorting - Arrays.sort(), Collections.sort()
+            https://stackoverflow.com/questions/5208133/collections-vs-arrays-regarding-sort
+      
 **JAVA string**
 
       JAVA Sting Pool - 
