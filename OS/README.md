@@ -90,3 +90,9 @@
                        Semaphore (Signalling mechanism)
                        
  Producer - Consumer Problem - 
+    
+                       Also called bounded buffer problem
+                       There are two processes - 
+                              One producer (produces resource and adds to buffer)
+                              One consumer (removes resource from buffer and consumes it)
+                       
