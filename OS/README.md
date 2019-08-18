@@ -89,7 +89,7 @@
                        Mutex (Locking mechanism)
                        Semaphore (Signalling mechanism)
                        
- Producer - Consumer Problem - 
+   Producer - Consumer Problem - 
     
                        Also called bounded buffer problem
                        There are two processes - 
