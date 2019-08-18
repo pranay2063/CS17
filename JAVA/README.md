@@ -21,8 +21,6 @@
       
       JAVA OOPS - https://beginnersbook.com/2013/04/oops-concepts/
       
-      Sorting - Arrays.sort(), Collections.sort()
-            https://stackoverflow.com/questions/5208133/collections-vs-arrays-regarding-sort
       
 **JAVA string**
 
@@ -40,6 +38,15 @@
       String comparison in Java
             https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
 
+
+**Sorting in JAVA**
+
+      Sorting - Arrays.sort(), Collections.sort()
+            https://stackoverflow.com/questions/5208133/collections-vs-arrays-regarding-sort
+            
+      Comparable vs Comparator
+            1. https://stackoverflow.com/questions/1440134/when-should-a-class-be-comparable-and-or-comparator
+            2. https://www.journaldev.com/780/comparable-and-comparator-in-java-example
 
 **Specific topics and functions**
 
