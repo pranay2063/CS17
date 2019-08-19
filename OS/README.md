@@ -101,6 +101,8 @@
                        
 **Other OS concepts**
 
+    System Call
+
     Interrupt vs Polling
         1. https://en.wikipedia.org/wiki/Polling_(computer_science)
         2. https://techdifferences.com/difference-between-interrupt-and-polling-in-os.html
