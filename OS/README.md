@@ -98,3 +98,9 @@
                        
                        Concept - https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem
                        Implementation in JAVA - https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
+                       
+**Other OS concepts**
+
+    Interrupt vs Polling
+        1. https://en.wikipedia.org/wiki/Polling_(computer_science)
+        2. https://techdifferences.com/difference-between-interrupt-and-polling-in-os.html
