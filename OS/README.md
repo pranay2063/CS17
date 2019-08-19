@@ -101,7 +101,7 @@
                        
 **Other OS concepts**
 
-    System Call
+    System Call - https://www.geeksforgeeks.org/operating-system-introduction-system-call/
 
     Interrupt vs Polling
         1. https://en.wikipedia.org/wiki/Polling_(computer_science)
