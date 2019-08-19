@@ -96,3 +96,5 @@
                               One producer (produces resource and adds to buffer)
                               One consumer (removes resource from buffer and consumes it)
                        
+                       Concept - https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem
+                       Implementation in JAVA - https://www.geeksforgeeks.org/producer-consumer-solution-using-threads-java/
