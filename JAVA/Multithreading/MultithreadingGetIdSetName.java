@@ -19,7 +19,7 @@ class MultithreadingInterface extends Thread{
     }
 }
 
-class MultithreadingGetIdSetName {
+class MultithreadingGetIdSetName { 
     public static void main(String[] args){
         for(int i = 0; i < 5; ++i){
             MultithreadingInterface obj = new MultithreadingInterface();
