@@ -65,6 +65,7 @@
       8. Why ArrayList is preferred over Vector? - https://www.google.com/search?q=arraylist+vs+vector+in+java&rlz=1C1GCEU_enIN821IN821&oq=arraylist+vs+vector+&aqs=chrome.1.69i57j0l5.7145j0j7&sourceid=chrome&ie=UTF-8
       9. HashSet, HashMap and TreeSet in Java Collections
       10. Internal working of HashMap - https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
+      11. Standard method to obtain subarray of an array - https://stackoverflow.com/questions/4439595/how-to-create-a-sub-array-from-another-array-in-java
 
 **Synchronised in Java**
 > https://www.geeksforgeeks.org/synchronized-in-java/
