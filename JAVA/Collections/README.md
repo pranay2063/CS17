@@ -48,6 +48,11 @@
         https://stackoverflow.com/questions/4553624/hashmap-get-put-complexity
     
     HashMap vs ConcurrentHashMap vs SynchronizedHashMap 
+      HashMap is by default not synchronized and so not thread-safe
+      ConcurrentHashMap provides locking (thread safety) by default but not at a level of synchronized HashMap (where each method is synchronized)
+      https://stackoverflow.com/questions/1291836/concurrenthashmap-vs-synchronized-hashmap
+      https://www.geeksforgeeks.org/difference-hashmap-concurrenthashmap/
+      https://javarevisited.blogspot.com/2011/04/difference-between-concurrenthashmap.html
       
 **HashSet**
 
