@@ -42,3 +42,10 @@
         Default size * Load Factor = 12 (12 keys can be supported for default size)
         If number of keys extends 12, then bucker size will be doubled (2x) 
             https://stackoverflow.com/questions/5040753/why-arraylist-grows-at-a-rate-of-1-5-but-for-hashmap-its-2
+            https://stackoverflow.com/questions/10901752/what-is-the-significance-of-load-factor-in-hashmap
+    
+    HashMap vs ConcurrentHashMap vs SynchronizedHashMap 
+      
+**HashSet**
+
+
