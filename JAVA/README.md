@@ -1,6 +1,10 @@
 **JAVA for Beginners**
 > *https://beginnersbook.com/2013/05/java-introduction/*
 
+**JDK, JRE, JVM**
+
+      https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
+
 **JAVA Basics**
 
       Why is main static in Java? - 
