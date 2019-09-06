@@ -32,7 +32,7 @@
       How to override equals() and hashCode()
             https://www.geeksforgeeks.org/overriding-equals-method-in-java/
 
-**JAVA string**
+**JAVA String Class**
 
       JAVA Sting Pool - 
             https://www.journaldev.com/797/what-is-java-string-pool
