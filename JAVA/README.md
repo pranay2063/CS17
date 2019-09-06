@@ -4,6 +4,7 @@
 **JDK, JRE, JVM**
 
       https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
+      JIT compiler - https://www.geeksforgeeks.org/just-in-time-compiler/
 
 **JAVA Basics**
 
