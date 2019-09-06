@@ -26,7 +26,12 @@
       
       JAVA OOPS - https://beginnersbook.com/2013/04/oops-concepts/
       
-      
+
+**JAVA Object class**
+
+      How to override equals() and hashCode()
+            https://www.geeksforgeeks.org/overriding-equals-method-in-java/
+
 **JAVA string**
 
       JAVA Sting Pool - 
