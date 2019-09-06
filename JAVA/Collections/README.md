@@ -66,4 +66,9 @@
       
 **HashSet**
 
+**PriorityQueue**
 
+    PriorityQueue class
+        https://www.geeksforgeeks.org/priority-queue-class-in-java-2/
+    PriorityQueue implementing Comparator interface
+        https://www.geeksforgeeks.org/implement-priorityqueue-comparator-java/
