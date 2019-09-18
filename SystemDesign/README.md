@@ -49,6 +49,12 @@
   4. **Type of database - SQL vs NoSQL**
     
           4.1 ORM (Object Relation Mapping) Model - https://stackoverflow.com/questions/1152299/what-is-an-object-relational-mapping-framework
+          4.2 Scalability - Consistency, Availability and Partition Tolerance (CAP)
+          4.3 Types
+              Document Based - MongoDB (Document -> Collection -> DB)
+              Key-Value store - Redis
+              Column-family based - Cassandra
+              Graph DB - Neo4j
           
   5. **Queues** -
   
