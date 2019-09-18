@@ -52,6 +52,7 @@
           4.2 Scalability - Consistency, Availability and Partition Tolerance (CAP)
           4.3 Types - 
               Document Based- MongoDB (Document (JSON) -> Collection -> DB)
+                  Document is a unit
               Key-Value store - Redis
               Column-family based - Cassandra
               Graph DB - Neo4j
