@@ -49,7 +49,7 @@
   4. **Type of database - SQL vs NoSQL**
   5. **Queues** -
   
-          5.1 *http://blog.codepath.com/2013/01/06/asynchronous-processing-in-web-applications-part-2-developers-need-to-understand-message-queues/*
+          5.1 http://blog.codepath.com/2013/01/06/asynchronous-processing-in-web-applications-part-2-developers-need-to-understand-message-queues/
           5.2 ORM (Object Relation Mapping) Model - https://stackoverflow.com/questions/1152299/what-is-an-object-relational-mapping-framework
       
   6. **Proxies**
