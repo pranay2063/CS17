@@ -2,6 +2,7 @@
   
   1. *https://medium.com/javarevisited/growing-pains-becoming-an-intermediate-developer-6108a00211d5*
   2. *https://engineering.videoblocks.com/web-architecture-101-a3224e126947*
+  3. Monolith Vs Microservices - *https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59*
 
 **How to understand scalability of an application** - 
 
