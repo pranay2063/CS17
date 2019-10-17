@@ -7,8 +7,10 @@
   1. Monolith, SOA (Service Oriented Architecture) and Microservices
   2. Monolith Vs Microservices - *https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59*
   3. Microservices - *https://microservices.io/patterns/microservices.html*
-  4. SOA Vs Microservices - *https://medium.com/@kikchee/microservices-vs-soa-is-there-any-difference-at-all-2a1e3b66e1be*
-
+  4. SOA Vs Microservices - 
+      4.1 *https://medium.com/@kikchee/microservices-vs-soa-is-there-any-difference-at-all-2a1e3b66e1be*
+      4.2 *https://www.edureka.co/blog/microservices-vs-soa/*
+      
 **How to understand scalability of an application** - 
 
   1. *https://stackoverflow.com/questions/9420014/what-does-it-mean-scalability*
