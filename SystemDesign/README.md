@@ -10,6 +10,7 @@
   4. SOA Vs Microservices - 
       4.1 *https://medium.com/@kikchee/microservices-vs-soa-is-there-any-difference-at-all-2a1e3b66e1be*
       4.2 *https://www.edureka.co/blog/microservices-vs-soa/*
+  5. SOA - *https://www.geeksforgeeks.org/service-oriented-architecture/*
       
 **How to understand scalability of an application** - 
 
