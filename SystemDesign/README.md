@@ -2,9 +2,12 @@
   
   1. *https://medium.com/javarevisited/growing-pains-becoming-an-intermediate-developer-6108a00211d5*
   2. *https://engineering.videoblocks.com/web-architecture-101-a3224e126947*
-  3. Monolith Vs Microservices - 
-        *https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59*
-        *https://microservices.io/patterns/microservices.html*
+
+**Software Architectural patterns**
+  1. Monolith, SOA (Service Oriented Architecture) and Microservices
+  2. Monolith Vs Microservices - *https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59*
+  3. Microservices - *https://microservices.io/patterns/microservices.html*
+  4. SOA Vs Microservices - *https://medium.com/@kikchee/microservices-vs-soa-is-there-any-difference-at-all-2a1e3b66e1be*
 
 **How to understand scalability of an application** - 
 
