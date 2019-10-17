@@ -14,6 +14,9 @@
       4.2 *https://www.edureka.co/blog/microservices-vs-soa/*
       4.3 *https://www.quora.com/What-is-the-difference-between-SOA-and-microservices*
   5. SOA - *https://www.geeksforgeeks.org/service-oriented-architecture/*
+  
+**Web Services Vs API**
+  1. *https://medium.com/@programmerasi/difference-between-api-and-web-service-73c873573c9d*
       
 **How to understand scalability of an application** - 
 
