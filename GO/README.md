@@ -1,6 +1,8 @@
 
 **Playground** - *https://play.golang.org/*
 
+**GoLang Projects?** - *https://www.reddit.com/r/golang/comments/7pnw2e/fun_golang_projects/*
+
 **Starters**
 1. *https://medium.com/rungo/introduction-to-go-programming-language-golang-89d16ca72bbf*
 2. *https://www.geeksforgeeks.org/go-programming-language-introduction/*
