@@ -6,3 +6,4 @@
 2. *https://www.geeksforgeeks.org/go-programming-language-introduction/*
 3. *https://www.geeksforgeeks.org/introduction-to-go-programming/*
 4. *https://medium.com/rungo/working-in-go-workspace-3b0576e0534a*
+5. *https://github.com/hoanhan101/ultimate-go*
