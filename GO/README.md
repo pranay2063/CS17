@@ -3,6 +3,9 @@
 1. *https://play.golang.org/*
 2. *https://tour.golang.org/welcome/1*
 
+**GO vs NodeJS**
+1. *https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e*
+
 **GoLang Projects?** - 
 1. *https://www.reddit.com/r/golang/comments/7pnw2e/fun_golang_projects/*
 2. *https://github.com/golang/go/wiki/Projects*
