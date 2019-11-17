@@ -16,3 +16,4 @@
 **Company specific tips**
 1. *Google*
   1.1 *https://www.youtube.com/watch?v=6ZZX9iIgFoo*
+  1.2 *https://www.youtube.com/watch?v=fNpQrYwxsvo*
