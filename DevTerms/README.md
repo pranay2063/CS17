@@ -8,3 +8,7 @@
 **Synchronous Vs Asynchronous** - 
 
   1. *https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean*
+  
+**Web Services Vs API**
+  
+  1. *https://medium.com/@programmerasi/difference-between-api-and-web-service-73c873573c9d*
