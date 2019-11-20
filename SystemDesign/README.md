@@ -2,9 +2,6 @@
   
   1. *https://medium.com/javarevisited/growing-pains-becoming-an-intermediate-developer-6108a00211d5*
   2. *https://engineering.videoblocks.com/web-architecture-101-a3224e126947*
-  
-**Web Services Vs API**
-  1. *https://medium.com/@programmerasi/difference-between-api-and-web-service-73c873573c9d*
       
 **How to understand scalability of an application** - 
 
