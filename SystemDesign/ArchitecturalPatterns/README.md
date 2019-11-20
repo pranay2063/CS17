@@ -21,3 +21,7 @@
   5. *https://www.quora.com/How-do-I-build-a-REST-API*
   6. *https://stackoverflow.com/questions/5320003/why-we-should-use-rest*
   7. *https://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html*
+
+**HTTP vs REST**
+
+  1. *https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest*
