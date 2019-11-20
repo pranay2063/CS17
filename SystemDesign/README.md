@@ -11,10 +11,6 @@
   1. *https://stackoverflow.com/questions/9420014/what-does-it-mean-scalability*
   2. *https://softwareengineering.stackexchange.com/questions/65080/what-makes-an-application-scalable*
 
-**Synchronous Vs Asynchronous** - 
-
-  1. *https://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean*
-
 **OAuth** -
 
   1. *https://searchmicroservices.techtarget.com/definition/OAuth*
