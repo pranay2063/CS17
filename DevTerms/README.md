@@ -1,5 +1,5 @@
 
-**Library VS Framework**
+**Library Vs Framework**
 
   1. *https://www.programcreek.com/2011/09/what-is-the-difference-between-a-java-library-and-a-framework/*
   2. *https://www.geeksforgeeks.org/software-framework-vs-library/*
