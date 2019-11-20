@@ -68,5 +68,3 @@
   
   11. **Networking - Long-Polling, Web-Sockets and Server-sent events**
   
-**HTTP vs REST**
-1. *https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest*
