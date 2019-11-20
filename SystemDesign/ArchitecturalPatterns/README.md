@@ -1,5 +1,6 @@
 
 **Software Architectural patterns**
+  
   1. Monolith, SOA (Service Oriented Architecture) and Microservices
   2. Monolith Vs Microservices - 
       2.1 *https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59*
