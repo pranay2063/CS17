@@ -67,16 +67,6 @@
       10.1 *http://michaelnielsen.org/blog/consistent-hashing/*
   
   11. **Networking - Long-Polling, Web-Sockets and Server-sent events**
-
-**REST**
-
-  1. *https://www.codecademy.com/articles/what-is-rest*
-  2. *https://www.codecademy.com/articles/what-is-crud*
-  3. *https://vmokshagroup.com/blog/building-restful-apis-using-node-js-express-js-and-ms-sql-server/*
-  4. *https://spring.io/guides/gs/rest-service/*
-  5. *https://www.quora.com/How-do-I-build-a-REST-API*
-  6. *https://stackoverflow.com/questions/5320003/why-we-should-use-rest*
-  7. *https://www.javacodegeeks.com/2013/08/why-rest-is-so-important.html*
   
 **HTTP vs REST**
 1. *https://stackoverflow.com/questions/2190836/what-is-the-difference-between-http-and-rest*
