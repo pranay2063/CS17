@@ -12,6 +12,8 @@
   1. *https://computer.howstuffworks.com/internet/basics/question82.htm*
   2. *https://stackoverflow.com/questions/31021764/where-does-chrome-store-cookies*
   3. *https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer*
-  4. *Overview - https://html.com/resources/cookies-ultimate-guide/*
+  4. *Overview - 
+      4.1 https://html.com/resources/cookies-ultimate-guide/*
+      4.2 https://www.geeksforgeeks.org/cookies-used-website/
   5. *Cookies for shopping cart - https://stackoverflow.com/questions/39860045/how-do-i-use-cookies-to-store-shopping-cart-content*
   6. *Implementing cookies - https://codingstartups.com/web-cookies-everyone/*
