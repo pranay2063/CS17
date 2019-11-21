@@ -1,5 +1,5 @@
 
-**OAuth** -
+**OAuth** - *Implementing third party login such as facebook and gmail in your website* 
 
   1. *https://searchmicroservices.techtarget.com/definition/OAuth*
   2. *https://stackoverflow.com/questions/4201431/what-exactly-is-oauth-open-authorization* 
@@ -7,7 +7,7 @@
   4. *https://oauth.net/2/*
   5. *https://developers.google.com/identity/protocols/OAuth2WebServer*
   
-**Cookies**
+**Cookies** - *Information websites store in our local computer through browser*
 
   1. *https://computer.howstuffworks.com/internet/basics/question82.htm*
   2. *https://stackoverflow.com/questions/31021764/where-does-chrome-store-cookies*
