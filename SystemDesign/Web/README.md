@@ -9,7 +9,7 @@
   
 **Cookies** - *Information websites store in our local computer through browser*
 
-  1. *Overview* - *
+  1. *Overview* - 
       
       1.1 *https://computer.howstuffworks.com/internet/basics/question82.htm*
       1.2 *https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer*
