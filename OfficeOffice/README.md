@@ -11,3 +11,6 @@
 
 *Not being take seriously in office? check this*
 1. *https://www.linkedin.com/pulse/powerful-ways-get-people-take-you-more-seriously-dr-travis-bradberry/*
+
+*How to handle negativity at work?*
+1. *https://www.linkedin.com/pulse/how-smart-people-handle-difficult-dr-travis-bradberry/*
