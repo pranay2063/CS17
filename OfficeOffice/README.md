@@ -17,3 +17,6 @@
 
 *Body language can beat IQ*
 1. *https://www.linkedin.com/pulse/8-ways-body-language-beats-iq-dr-travis-bradberry/*
+
+*Emotional Quotient (EQ) - Emotional Intelligence*
+1. *https://www.linkedin.com/pulse/research-proven-tricks-make-you-seem-smarter-than-bradberry/*
