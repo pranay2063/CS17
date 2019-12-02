@@ -14,3 +14,6 @@
 
 *How to handle negativity at work?*
 1. *https://www.linkedin.com/pulse/how-smart-people-handle-difficult-dr-travis-bradberry/*
+
+*Body language can beat IQ*
+1. *https://www.linkedin.com/pulse/8-ways-body-language-beats-iq-dr-travis-bradberry/*
