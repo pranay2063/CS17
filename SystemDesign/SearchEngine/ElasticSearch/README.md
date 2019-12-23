@@ -1,6 +1,9 @@
 
 *Full-text search*
   1. *https://en.wikipedia.org/wiki/Full-text_search*
+  
+*Inverted Index*
+  1. *https://www.geeksforgeeks.org/inverted-index/*
 
 *Elasticsearch*
   
