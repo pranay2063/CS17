@@ -24,3 +24,8 @@
 *Creating an elasticsearch cluster*
   1. *https://dzone.com/articles/elasticsearch-tutorial-creating-an-elasticsearch-c*
   2. *https://thoughts.t37.net/designing-the-perfect-elasticsearch-cluster-the-almost-definitive-guide-e614eabc1a87*
+  
+*How to search or query elasticsearch*
+
+     Elastic Search provides a JSON-style domain-specific language which can be used to execute queries, and is referred as the Query-DSL.
+    The search API allows us to execute a search query and get back search hits that match the query. Elastic search will fetch the records at lightning speed because of schema-less table structure. 
