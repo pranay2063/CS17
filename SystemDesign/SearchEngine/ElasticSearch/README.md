@@ -29,3 +29,7 @@
 
     Elastic Search provides a JSON-style domain-specific language which can be used to execute queries, and is referred as the Query-DSL.
     The search API allows us to execute a search query and get back search hits that match the query. Elastic search will fetch the records at lightning speed because of schema-less table structure. 
+  
+  1. *https://www.elastic.co/guide/en/elasticsearch/reference/7.5/query-dsl.html*
+  2. *https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/java-query-dsl.html*
+  3. *https://www.baeldung.com/elasticsearch-java*
