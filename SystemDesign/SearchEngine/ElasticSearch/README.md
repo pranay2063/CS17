@@ -1,6 +1,10 @@
 
+*Full-text search*
+  1. *https://en.wikipedia.org/wiki/Full-text_search*
+
 *Elasticsearch*
   
+    Highly scalable, open-source, full-text search engine, analytics engine
     NoSQL store
     Cluster - Group of nodes/hosts/servers
     Types of nodes - Master, Data, Connecting (Client), Ingesting (Http)
