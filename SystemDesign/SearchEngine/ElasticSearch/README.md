@@ -17,7 +17,8 @@
     Concepts - Sharding, Replication
 
 *Introduction*
-  1. *https://dzone.com/articles/what-is-elasticsearch-and-how-it-can-be-useful*
+  1. *https://www.quora.com/How-does-Elasticsearch-work*
+  2. *https://dzone.com/articles/what-is-elasticsearch-and-how-it-can-be-useful*
   
 *Creating an elasticsearch cluster*
   1. *https://dzone.com/articles/elasticsearch-tutorial-creating-an-elasticsearch-c*
