@@ -26,6 +26,9 @@
   1. *https://dzone.com/articles/elasticsearch-tutorial-creating-an-elasticsearch-c*
   2. *https://thoughts.t37.net/designing-the-perfect-elasticsearch-cluster-the-almost-definitive-guide-e614eabc1a87*
   
+*Index in elasticsearch*
+  1. *https://stackoverflow.com/questions/15025876/what-is-an-index-in-elasticsearch*
+  
 *How to search or query elasticsearch*
 
     Elastic Search provides a JSON-style domain-specific language which can be used to execute queries, and is referred as the Query-DSL.
