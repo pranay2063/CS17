@@ -40,4 +40,7 @@
   
   1. *https://www.elastic.co/guide/en/elasticsearch/reference/7.5/query-dsl.html*
   2. *https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/java-query-dsl.html*
-  3. *https://www.baeldung.com/elasticsearch-java*
+  3. *https://www.baeldung.com/elasticsearch-java
+  
+*Elasticsearch - Type, Mapping*
+  1. *https://logz.io/blog/elasticsearch-mapping/*
