@@ -22,6 +22,7 @@
   2. *https://hub.packtpub.com/how-does-elasticsearch-work-tutorial/*
   3. *https://dzone.com/articles/what-is-elasticsearch-and-how-it-can-be-useful*
   4. *http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html*
+  5. *https://logz.io/blog/10-elasticsearch-concepts/*
   
 *Creating an elasticsearch cluster*
   1. *https://dzone.com/articles/elasticsearch-tutorial-creating-an-elasticsearch-c*
