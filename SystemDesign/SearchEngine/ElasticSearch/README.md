@@ -21,6 +21,7 @@
   1. *https://www.quora.com/How-does-Elasticsearch-work*
   2. *https://hub.packtpub.com/how-does-elasticsearch-work-tutorial/*
   3. *https://dzone.com/articles/what-is-elasticsearch-and-how-it-can-be-useful*
+  4. *http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html*
   
 *Creating an elasticsearch cluster*
   1. *https://dzone.com/articles/elasticsearch-tutorial-creating-an-elasticsearch-c*
@@ -28,7 +29,6 @@
   
 *Index in elasticsearch*
   1. *https://stackoverflow.com/questions/15025876/what-is-an-index-in-elasticsearch*
-  2. *http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html*
   
 *How to search or query elasticsearch*
 
