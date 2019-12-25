@@ -44,5 +44,5 @@
   
 *Elasticsearch - Type, Mapping*
   1. *https://logz.io/blog/elasticsearch-mapping/*
-  2. *https://www.elastic.co/blog/index-vs-type
+  2. *https://www.elastic.co/blog/index-vs-type*
   3. *https://www.elastic.co/guide/en/elasticsearch/reference/7.5/mapping.html*
