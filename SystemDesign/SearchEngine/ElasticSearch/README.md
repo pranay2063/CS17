@@ -23,6 +23,7 @@
   3. *https://dzone.com/articles/what-is-elasticsearch-and-how-it-can-be-useful*
   4. *http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html*
   5. *https://logz.io/blog/10-elasticsearch-concepts/*
+  6. *https://medium.com/@ashish_fagna/getting-started-with-elasticsearch-creating-indices-inserting-values-and-retrieving-data-e3122e9b12c6*
   
 *Creating an elasticsearch cluster*
   1. *https://dzone.com/articles/elasticsearch-tutorial-creating-an-elasticsearch-c*
