@@ -28,6 +28,7 @@
   
 *Index in elasticsearch*
   1. *https://stackoverflow.com/questions/15025876/what-is-an-index-in-elasticsearch*
+  2. *http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html*
   
 *How to search or query elasticsearch*
 
