@@ -47,6 +47,19 @@
 
       How to override equals() and hashCode()
             https://www.geeksforgeeks.org/overriding-equals-method-in-java/
+            
+**Serialization and Deserialization in Java**
+
+      Serialization - 
+            Process of converting object to bytestream
+            Bytestream is platform independent 
+            It saves/persist the state of an object
+            Helps in transfer of an object across network
+            
+      Deserialization -
+            Converting bytestream to object
+            
+      https://www.geeksforgeeks.org/serialization-in-java/
 
 **JAVA String Class**
 
