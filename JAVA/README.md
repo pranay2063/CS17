@@ -33,8 +33,14 @@
       All JavaBeans are POJOs but vice-verse is not true
       There are some conditions on POJOs which makes them JavaBeans 
       
-      https://www.geeksforgeeks.org/pojo-vs-java-beans/
-      https://sites.google.com/site/sureshdevang/java-bean-v-s-pojo
+      JavaBeans -
+            https://stackoverflow.com/questions/11406977/what-is-a-java-bean
+            https://stackoverflow.com/questions/1727603/places-where-javabeans-are-used
+            https://stackoverflow.com/questions/4275897/whats-the-point-of-beans
+      
+      Difference betweeb the two -
+            https://www.geeksforgeeks.org/pojo-vs-java-beans/
+            https://sites.google.com/site/sureshdevang/java-bean-v-s-pojo
 
 
 **JAVA Object class**
