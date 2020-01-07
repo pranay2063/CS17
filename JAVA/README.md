@@ -27,6 +27,16 @@
       JAVA OOPS - https://beginnersbook.com/2013/04/oops-concepts/
       
 
+**POJO vs JavaBeans**
+      
+      POJO - Plain Old Java Object
+      All JavaBeans are POJOs but vice-verse is not true
+      There are some conditions on POJOs which makes them JavaBeans 
+      
+      https://www.geeksforgeeks.org/pojo-vs-java-beans/
+      https://sites.google.com/site/sureshdevang/java-bean-v-s-pojo
+
+
 **JAVA Object class**
 
       How to override equals() and hashCode()
