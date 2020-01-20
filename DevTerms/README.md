@@ -16,3 +16,8 @@
 **Web Server, Application Server, Database Server**
 
   1. *https://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server*
+  
+**Configuration file**
+
+    YML, XML, JSON
+    YML (or YAML) - https://stackoverflow.com/questions/21059124/is-it-yaml-or-yml
