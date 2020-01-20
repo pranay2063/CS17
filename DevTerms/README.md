@@ -21,3 +21,6 @@
 
     YML, XML, JSON
     YML (or YAML) - https://stackoverflow.com/questions/21059124/is-it-yaml-or-yml
+    
+    https://en.wikipedia.org/wiki/Configuration_file
+    https://commons.apache.org/proper/commons-configuration/userguide/howto_xml.html
