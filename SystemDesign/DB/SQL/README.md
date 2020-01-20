@@ -7,9 +7,12 @@
     Tables has columns for fields and rows for each set of data
     Follws ACID - Atomicity, Consistency, Isolation and Durability
 
-**Ad-hoc query in SQL**
+**Ad-hoc query and stored procedure in SQL**
 
-  1. *https://stackoverflow.com/questions/2460954/what-is-ad-hoc-query/2460987*
+    Ad-Hoc Query
+        https://stackoverflow.com/questions/2460954/what-is-ad-hoc-query/2460987
+    Stored Procedure
+        https://www.w3schools.com/sql/sql_stored_procedures.asp
   
 **ACID in SQL**
 
