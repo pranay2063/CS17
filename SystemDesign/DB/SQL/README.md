@@ -1,5 +1,8 @@
 # SQL - Consistency - ACID
 
+**Ad-hoc query in SQL**
+
+  1. *https://stackoverflow.com/questions/2460954/what-is-ad-hoc-query/2460987*
 
 **Joins**
   
