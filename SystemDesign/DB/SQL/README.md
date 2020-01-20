@@ -1,8 +1,19 @@
 # SQL - Consistency - ACID
 
+**RDMS**
+
+    Relational DBMS
+    Based on relatios or tables 
+    Tables has columns for fields and rows for each set of data
+    Follws ACID - Atomicity, Consistency, Isolation and Durability
+
 **Ad-hoc query in SQL**
 
   1. *https://stackoverflow.com/questions/2460954/what-is-ad-hoc-query/2460987*
+  
+**ACID in SQL**
+
+  1. *https://www.w3resource.com/sql/controlling-transactions.php*
 
 **Joins**
   
