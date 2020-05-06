@@ -21,3 +21,6 @@
 1. *Google*
   1.1 *https://www.youtube.com/watch?v=6ZZX9iIgFoo*
   1.2 *https://www.youtube.com/watch?v=fNpQrYwxsvo*
+ 
+**What has to be done?**
+1. *https://workat.tech/general/article/how-to-crack-interviews-vx70wy0ff98m*
