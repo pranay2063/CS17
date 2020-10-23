@@ -11,3 +11,6 @@
 **Factory Method Design Pattern** - *https://www.coursera.org/learn/design-patterns/lecture/LIUcy/2-1-4-factory-method-pattern*
 ![alt text](https://raw.githubusercontent.com/pranay2063/CS17/master/DesignPatterns/Images/FactoryMethodDesignIntent.PNG)
 ![alt text](https://raw.githubusercontent.com/pranay2063/CS17/master/DesignPatterns/Images/FactoryMethod.PNG)
+
+
+**Publish-Subscribe Pattern** - *https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern*
