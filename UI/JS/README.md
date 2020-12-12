@@ -20,3 +20,9 @@
    1. *https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures* 
    2. *https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36*
  
+ **Angular JS that I used**
+ 
+    MVC
+    UI Grid 
+    Synchronous JS calls (using then() promise)
+    ElasticSearch calls using JS http() function
