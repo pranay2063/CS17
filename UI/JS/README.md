@@ -26,5 +26,4 @@
     UI Grid 
     Synchronous JS calls (using then() promise)
     ElasticSearch calls using JS http() function
-    
- [ng-if](https://angular.io/api/common/NgIf) Ng-if (to show    
+    ng-if (to make any div template or grid visible based on a condition)
