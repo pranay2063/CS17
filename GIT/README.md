@@ -13,10 +13,10 @@
 
 **GIT features that I used (GITLAB)**
 
-    *commit*
-*push*
-*pull*
-*merge*
-*merge abort (because MERGE_HEAD exists*
+    commit
+    push
+    pull
+    merge
+    merge abort (because MERGE_HEAD exists)
 
 
