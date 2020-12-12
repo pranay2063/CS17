@@ -17,6 +17,6 @@
     push
     pull
     merge
-    merge abort (because MERGE_HEAD exists)
+    merge --abort (because MERGE_HEAD exists)
 
 
