@@ -26,3 +26,4 @@
     UI Grid 
     Synchronous JS calls (using then() promise)
     ElasticSearch calls using JS http() function
+    [a link](https://angular.io/api/common/NgIf) Ng-if (to show 
