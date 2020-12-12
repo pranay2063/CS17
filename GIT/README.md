@@ -12,7 +12,8 @@
 > https://www.youtube.com/watch?v=YTbRzhQju4c
 
 **GIT features that I used (GITLAB)**
-*commit*
+
+    *commit*
 *push*
 *pull*
 *merge*
