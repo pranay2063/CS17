@@ -132,6 +132,7 @@
       
       1. https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html
       2. https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
+      3. https://stackoverflow.com/questions/4553624/hashmap-get-put-complexity
       
 **JAVA interview prep**
 
