@@ -27,3 +27,4 @@
     Synchronous JS calls (using then() promise)
     ElasticSearch calls using JS http() function
     ng-if (to make any div template or grid visible based on a condition)
+    $scope - https://stackoverflow.com/questions/24360295/what-is-scope-in-angularjs
