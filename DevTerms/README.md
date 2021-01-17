@@ -24,3 +24,7 @@
     
     https://en.wikipedia.org/wiki/Configuration_file
     https://commons.apache.org/proper/commons-configuration/userguide/howto_xml.html
+    
+**Concurrency Vs Parallelism**
+
+  1. *https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism*
