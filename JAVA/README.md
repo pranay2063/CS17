@@ -142,3 +142,7 @@
 **JAVA interview prep**
 
       1. https://www.java67.com/2015/11/how-to-set-javahome-path-in-mac-os-x.html#at_pco=smlwn-1.0&at_si=5d2e197bebdf1c66&at_ab=per-2&at_pos=0&at_tot=1
+      
+**Unit tests in Java**
+
+      Mock vs Spy - https://stackoverflow.com/questions/15052984/what-is-the-difference-between-mocking-and-spying-when-using-mockito
