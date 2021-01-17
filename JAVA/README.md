@@ -134,6 +134,11 @@
       2. https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
       3. https://stackoverflow.com/questions/4553624/hashmap-get-put-complexity
       
+**JAVA Streams**
+
+      Streams Vs Loops - https://stackoverflow.com/questions/44180101/in-java-what-are-the-advantages-of-streams-over-loops
+      Lazy Evaluation in streams - https://www.logicbig.com/tutorials/core-java-tutorial/java-util-stream/lazy-evaluation.html
+      
 **JAVA interview prep**
 
       1. https://www.java67.com/2015/11/how-to-set-javahome-path-in-mac-os-x.html#at_pco=smlwn-1.0&at_si=5d2e197bebdf1c66&at_ab=per-2&at_pos=0&at_tot=1
