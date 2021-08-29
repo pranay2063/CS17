@@ -1,1 +1,1 @@
-# Basic concepts of Computer Science
+# Computer Science Basics
