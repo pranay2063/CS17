@@ -14,4 +14,5 @@ Problems
   5. Design a tic-tac-toe 
   6. Design a distributed queue (like Kafka) - https://workat.tech/machine-coding/practice/design-distributed-queue-cuudq0sk0v14
   7. ...
-  8. Further detailed practice problems - https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca
+  8. Detailed MC practice problems Set 1 - https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca
+  9. LLD Set 2 - https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
