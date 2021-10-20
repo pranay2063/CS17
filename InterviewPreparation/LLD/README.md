@@ -6,3 +6,5 @@ Problems
   4. Design a chess game
   5. Design a tic-tac-toe 
   6. Design a distributed queue (like Kafka) - https://workat.tech/machine-coding/practice/design-distributed-queue-cuudq0sk0v14
+  7. ...
+  8. Further detailed practice problems - https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca
