@@ -10,7 +10,7 @@ Problems
   2. Design a parking lot
   3. Design Producer/Consumer
   4. Design a chess game
-  5. Design a tic-tac-toe 
+  5. Design a tic-tac-toe - https://www.youtube.com/watch?v=gktZsX9Z8Kw
   6. Design a distributed queue (like Kafka) - https://workat.tech/machine-coding/practice/design-distributed-queue-cuudq0sk0v14
   7. ...
   8. Detailed MC practice problems Set 1 - https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca
