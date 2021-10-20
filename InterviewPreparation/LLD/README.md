@@ -1,4 +1,11 @@
 
+SOLID Principles - 
+  1. https://en.wikipedia.org/wiki/SOLID
+  2. https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+
+Separation of concerns - https://en.wikipedia.org/wiki/Separation_of_concerns
+
+
 Problems
   1. Design a lift
   2. Design a parking lot
