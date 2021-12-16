@@ -106,3 +106,6 @@
     Interrupt vs Polling
         1. https://en.wikipedia.org/wiki/Polling_(computer_science)
         2. https://techdifferences.com/difference-between-interrupt-and-polling-in-os.html
+        
+    [Mutex vs Semaphore](https://stackoverflow.com/questions/62814/difference-between-binary-semaphore-and-mutex)
+    
