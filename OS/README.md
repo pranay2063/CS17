@@ -1,7 +1,7 @@
 # Operating System
 
 
-**OS Basics**  - *https://www.geeksforgeeks.org/operating-systems/#basics*
+[**OS Basics**](https://www.geeksforgeeks.org/operating-systems/#basics)
 
 1. **What happens when we turn on computer?**
 2. **Multiprogramming, Multiprocessing, Multitasking, Multithreading** - *https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/*
