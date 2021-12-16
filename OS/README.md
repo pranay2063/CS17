@@ -4,8 +4,8 @@
 [**OS Basics**](https://www.geeksforgeeks.org/operating-systems/#basics)
 
 1. **What happens when we turn on computer?**
-2. **Multiprogramming, Multiprocessing, Multitasking, Multithreading** - *https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/*
-3. **System Call** - *https://www.geeksforgeeks.org/operating-system-introduction-system-call/*
+2. [**Multiprogramming, Multiprocessing, Multitasking, Multithreading**](https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/)
+3. [**System Call**](https://www.geeksforgeeks.org/operating-system-introduction-system-call/)
 4. **Process Management** - Process Control Block(PCB) - Process ID (PID), Process State, Program Counter, CPU Scheduling Info, CPU Registers 
   
    *https://www.geeksforgeeks.org/gate-notes-operating-system-process-management-introduction/*
