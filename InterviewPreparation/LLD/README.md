@@ -7,6 +7,7 @@ Separation of concerns - https://en.wikipedia.org/wiki/Separation_of_concerns
 
 Design Patterns - https://en.wikipedia.org/wiki/Software_design_pattern
   - Singleton [Wiki](https://en.wikipedia.org/wiki/Singleton_pattern#Java) [Geeks](https://www.geeksforgeeks.org/singleton-design-pattern/)
+  - https://github.com/pranay2063/CS17/tree/master/DesignPatterns
 
 Problems
   1. Design a lift
