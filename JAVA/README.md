@@ -147,3 +147,9 @@
 **Unit tests in Java**
 
       Mock vs Spy - https://stackoverflow.com/questions/15052984/what-is-the-difference-between-mocking-and-spying-when-using-mockito
+
+**Virtual Threads**
+
+      Java 21 introduces an enhancements to threads called virtual threads 
+      Virtual threads are more effecient for high throughout concurrent applications
+      Details can be found here https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html#GUID-15BDB995-028A-45A7-B6E2-9BA15C2E0501 
