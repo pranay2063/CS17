@@ -6,6 +6,10 @@
       https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
       JIT compiler - https://www.geeksforgeeks.org/just-in-time-compiler/
 
+**Java classloader**
+
+      https://www.turing.com/kb/guide-to-the-basics-of-classloader
+
 **JAVA Basics**
 
       Why is main static in Java? - 
