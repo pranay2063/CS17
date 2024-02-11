@@ -10,6 +10,7 @@
 
       https://www.turing.com/kb/guide-to-the-basics-of-classloader
       https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
+      G1GC https://www.dynatrace.com/news/blog/understanding-g1-garbage-collector-java-9/
 
 **JAVA Basics**
 
