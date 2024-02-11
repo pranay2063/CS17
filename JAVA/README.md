@@ -6,9 +6,10 @@
       https://www.geeksforgeeks.org/differences-jdk-jre-jvm/
       JIT compiler - https://www.geeksforgeeks.org/just-in-time-compiler/
 
-**Java classloader**
+**JVM and ClassLoader internals**
 
       https://www.turing.com/kb/guide-to-the-basics-of-classloader
+      https://www.geeksforgeeks.org/jvm-works-jvm-architecture/
 
 **JAVA Basics**
 
