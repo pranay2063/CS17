@@ -1,5 +1,3 @@
-**JAVA for Beginners**
-> *https://beginnersbook.com/2013/05/java-introduction/*
 
 **JDK, JRE, JVM**
 
@@ -13,6 +11,8 @@
       G1GC https://www.dynatrace.com/news/blog/understanding-g1-garbage-collector-java-9/
 
 **JAVA Basics**
+
+      https://beginnersbook.com/2013/05/java-introduction/
 
       Why is main static in Java? - 
       
@@ -49,12 +49,12 @@
             https://sites.google.com/site/sureshdevang/java-bean-v-s-pojo
 
 
-**JAVA Object class**
+**Object class**
 
       How to override equals() and hashCode()
             https://www.geeksforgeeks.org/overriding-equals-method-in-java/
             
-**Serialization and Deserialization in Java**
+**Serialization and Deserialization**
 
       Serialization - 
             Process of converting object to bytestream
@@ -67,7 +67,7 @@
             
       https://www.geeksforgeeks.org/serialization-in-java/
 
-**JAVA String Class**
+**String Class**
 
       JAVA Sting Pool - 
             https://www.journaldev.com/797/what-is-java-string-pool
@@ -84,7 +84,7 @@
             https://stackoverflow.com/questions/513832/how-do-i-compare-strings-in-java
 
 
-**Sorting in JAVA**
+**Sorting**
 
       Sorting - Arrays.sort(), Collections.sort()
             https://stackoverflow.com/questions/5208133/collections-vs-arrays-regarding-sort
@@ -111,11 +111,16 @@
       9. HashSet, HashMap and TreeSet in Java Collections
       10. Internal working of HashMap - https://www.geeksforgeeks.org/internal-working-of-hashmap-java/
       11. Standard method to obtain subarray of an array - https://stackoverflow.com/questions/4439595/how-to-create-a-sub-array-from-another-array-in-java
+      12. Checked and unchecked exceptions - https://stackoverflow.com/questions/2190161/difference-between-java-lang-runtimeexception-and-java-lang-exception
+      13. Wrapper class (autoboxing and unboxing) - https://www.geeksforgeeks.org/wrapper-classes-java/
 
-**Synchronised in Java**
-> https://www.geeksforgeeks.org/synchronized-in-java/
+**Concurrency and Multi-threading**
 
-**Collections framework in JAVA**
+      Synchronised in Java
+            https://www.geeksforgeeks.org/synchronized-in-java/
+      
+
+**Collections framework**
       
       Collection framework provides interfaces and classes for different containers in Java
       1. https://www.journaldev.com/1260/collections-in-java-tutorial
@@ -125,10 +130,7 @@
       Generics in Java (Why are they needed?)
       1. https://www.journaldev.com/1663/java-generics-example-method-class-interface
 
-**Wrapper class - Autoboxing and Unboxing**
-> *https://www.geeksforgeeks.org/wrapper-classes-java/*
-
-**Hashmap in Java**
+**Hashmap**
 
       Hashmap does not support mutiple values with same key. 
       HashMap internally stores mapping in the form of Map.Entry object which contains both key and value object.
